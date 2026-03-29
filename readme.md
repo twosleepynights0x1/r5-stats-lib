@@ -164,7 +164,7 @@ get_current_map()
 Возвращает: str
 Пример: current_map = client.get_current_map()
 ```
-```pytohn
+```python
 get_map_rotation()
 Описание: Возвращает полную ротацию карт для всех режимов
 Возвращает: dict с ключами battle_royale, arenas, control
